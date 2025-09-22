@@ -3,9 +3,6 @@
 
 # 🚖 Taxi\_App
 
-![Taxi\_App Demo](link-to-demo-gif)
-*Animated preview: Role-based login, signup as passenger/driver, navigation, and ride booking (planned).*
-
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)](https://dart.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)](https://firebase.google.com/)
@@ -64,8 +61,9 @@ It demonstrates **role-based authentication (Passenger & Driver)**, clean archit
 
 | Feature              | Demo                                           |
 | -------------------- | ---------------------------------------------- |
-| Splash & Role Choice | ![splash](assets/screenshots/splash.png)       |
-| Login & Signup       | ![login](assets/screenshots/login.png)         |
+| Splash               | ![splash](assets/screenshots/splash.png)       |
+| Role Choice          | ![role](assets/screenshots/choice.png)         |
+| Login & Signup       | ![login](assets/screenshots/signup.png)        |
 | Passenger Home       | ![passenger](assets/screenshots/passenger.png) |
 | Driver Home          | ![driver](assets/screenshots/driver.png)       |
 
@@ -115,4 +113,5 @@ flutter run
 This project is licensed under the **MIT License**.
 
 ---
+
 
